@@ -1,5 +1,7 @@
 # Customer-Segmentation-Analysis-Using-Clustering-RFM
-------------------------------------------------------------------------------------------------## Objective
+------------------------------------------------------------------------------------------------
+
+## Objective
 
 To segment customers into meaningful groups based on purchasing behavior and demographics using **Kmeans Clustering**, **Hierarchical Clustering** and **RFM (Recency, Frequency, Monetary) analysis** for better strategic decisions in marketing and customer relationship management.
 
