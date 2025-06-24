@@ -1,5 +1,4 @@
 # Customer-Segmentation-Analysis-Using-Clustering-RFM
-------------------------------------------------------------------------------------------------
 
 ## Objective
 
@@ -40,16 +39,12 @@ To segment customers into meaningful groups based on purchasing behavior and dem
   - Lost Customers
   - Need Attention
 
-------------------------------------------------------------------------------------------------
-
 ## Key Insights
 
 - High-income, low-tenure customers are potential premium targets.
 - Long-term members showed declining purchase value—need re-engagement.
 - Largest customer group falls in “Mid-Value” requiring attention.
 - RFM and KMeans segments aligned well with business logic.
-
-------------------------------------------------------------------------------------------------
 
 ## Customer Profiles
 
@@ -68,11 +63,17 @@ To segment customers into meaningful groups based on purchasing behavior and dem
 - **At Risk**: Previously valuable — reactivation needed.
 - **Lost**: Minimal activity — deprioritize.
 
----
-
 ## Recommendations
 
 - Launch **Loyalty Programs** for Clusters 2 and 3.
 - Design **Campaigns** for “At Risk” and “Need Attention” segments.
 - Promote **premium products** to high-income new customers.
 - Use segmentation labels to personalize marketing communications.
+
+## Tools Used
+
+- Python
+- Pandas, NumPy
+- Scikit-learn (Clustering, PCA)
+- Seaborn & Matplotlib (Visualization)
+- Plotly (RFM TreeMap)
